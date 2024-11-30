@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang=en data-theme=light>
+
+<head>
+    <meta name=generator content="Hugo 0.120.4">
+    <meta charset=utf-8>
+    <meta name=viewport content="width=device-width,initial-scale=1">
+    <title>Secure Protocol Implementations in the Quantum Era (SPIQE)</title>
+    <meta name=description content="Secure Protocol Implementations in the Quantum Era (SPIQE)">
+    <link rel="shortcut icon" href=/img/icon.svg>
+    <link rel=stylesheet href=/pico.min.css>
+    <link rel=stylesheet href=/custom.css>
+</head>
+
+<body>
+    <nav class=container>
+        <ul>
+            <li><a href=/ class=contrast>SPIQE</a></li>
+        </ul>
+        <ul class=burger>
+            <li><a href=#menu id=nav-open><img src=/img/menu.svg alt=Menu></a></li>
+        </ul>
+        <ul class=nav-elements>
+            <li><a href=/ />About SPIQE</a></li>
+            <li class=selected><a href=/call.html />Call for Papers</a></li>
+            <li><a href=/program.html />Program</a></li>
+            <li><a href=/registration.html />Registration</a></li>
+        </ul>
+    </nav>
+    <div id="includedContent"></div>
+    <script>
+        fetch("header.html")
+            .then(response => response.text())
+            .then(html => {
+                document.getElementById("includedContent").innerHTML = html;
+            });
+    </script>
+    <main class=container>
+        <h2>Call for Papers and Talks</h2>
+        <div>
+            <p>Security protocols are essential for safeguarding the digital communications and interactions that
+                form the backbone of modern society. These protocols are increasingly under pressure from both classical
+                vulnerabilities, such as implementation flaws, as well as emerging threats, such as posed by quantum
+                computing. The migration to post-quantum cryptographic (PQC) algorithms is a complex process that
+                will affect the design, implementation, and analysis of security protocols in the coming years.</p>
+            <p>The workshop on Secure Protocol Implementations in the Quantum Era (SPIQE) seeks contributed
+                papers and talks that present case studies addressing the challenges of implementing traditional
+                security protocols and how these can be used to build secure quantum-resistant solutions. As with
+                classical protocols, many security vulnerabilities stem from implementation errors, exacerbated by
+                the increasing complexity of protocol specifications. The introduction of post-quantum algorithms adds
+                further complexity, raising new questions on how to implement and analyze these protocols securely
+                and efficiently.</p>
+            <p>We invite submissions from both <b>academia and industry</b> that present cutting-edge research on security
+                protocol implementations, particularly those that address the unique challenges of post-quantum
+                migration. How can we ensure that the transition to PQC is both smooth and secure? How can we
+                systematically analyze implementations, statically and dynamically, to mitigate the introduction of
+                flaws during this transition? How can we ensure that specifications are precise, easily understandable,
+                and capable of being correctly implemented, especially when considering the additional complexity
+                introduced by PQC?</p>
+        </div>
+        <h2>Relevant topics include (but are not limited to)</h2>
+        <div>
+            <ul>
+                <li>Formal verification of code, including post-quantum cryptographic algorithms</li>
+                <li>Security models and formal analysis for PQC-based protocols</li>
+                <li>Post-quantum migration strategies for security protocols</li>
+                <li>Software engineering approaches to transform classical protocol specifications into
+                    quantum-resistant implementations</li>
+                <li>Automated techniques for identifying vulnerabilities in protocol implementations (e.g., fuzzing,
+                    testing, state learning, symbolic execution)</li>
+                <li>LangSec approaches for improving the robustness of protocol specifications and implementations</li>
+                <li>Model-based testing of classical and post-quantum protocol implementations</li>
+                <li>Hybrid classical-post-quantum security protocol implementations and their analyses</li>
+                <li>Large-scale analyses of post-quantum protocol deployments</li>
+                <li>Post-quantum key management and PKIs</li>
+                <li>Lessons learned from recent attacks on post-quantum implementations</li>
+                <li>Standardization of post-quantum algorithms: current state and challenges</li>
+            </ul>
+        </div>
+        <h2>Program Committee</h2>
+        <p>TBA</p>
+    </main>
+    <div id="footer"></div>
+    <script>
+        fetch("footer.html")
+            .then(response => response.text())
+            .then(html => {
+                document.getElementById("footer").innerHTML = html;
+            });
+    </script>
+    <button id=scroll-up title="Scroll up">⬆</button>
+</body>
+<script>let navmenu = document.querySelector(".nav-elements"); document.querySelector("#nav-open").onclick = function () { navmenu.classList.contains("open") ? navmenu.classList.remove("open") : navmenu.classList.add("open") }; let topbutton = document.querySelector("#scroll-up"); window.onscroll = () => { document.body.scrollTop > 100 || document.documentElement.scrollTop > 100 ? topbutton.style.display = "block" : topbutton.style.display = "none" }, topbutton.onclick = () => { document.body.scrollTop = 0, document.documentElement.scrollTop = 0 }</script>
+
+</html>

@@ -240,6 +240,18 @@ section, section.grid {
   --grid-spacing-horizontal: 2rem;
 }
 
+table {
+  font-size: 1rem;
+}
+
+.highlight-invited {
+  background-color: #b6d7a8;
+}
+
+.highlight-submission {
+  background-color: #a4c2f4;
+}
+
 section h2 {
   --font-weight: 600;
   --font-size: 2.1rem;

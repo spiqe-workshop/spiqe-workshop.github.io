@@ -127,5 +127,4 @@
     <button id=scroll-up title="Scroll up">⬆</button>
 </body>
 <script>let navmenu = document.querySelector(".nav-elements"); document.querySelector("#nav-open").onclick = function () { navmenu.classList.contains("open") ? navmenu.classList.remove("open") : navmenu.classList.add("open") }; let topbutton = document.querySelector("#scroll-up"); window.onscroll = () => { document.body.scrollTop > 100 || document.documentElement.scrollTop > 100 ? topbutton.style.display = "block" : topbutton.style.display = "none" }, topbutton.onclick = () => { document.body.scrollTop = 0, document.documentElement.scrollTop = 0 }</script>
-
 </html>

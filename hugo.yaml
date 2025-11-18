@@ -3,6 +3,11 @@ languageCode: en-us
 title: 'SPIQE - Secure Protocol Implementations in the Quantum Era'
 theme: spiqe
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 menu:
   main:
     - name: Home

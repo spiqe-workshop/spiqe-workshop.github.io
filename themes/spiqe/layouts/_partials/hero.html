@@ -1,16 +1,18 @@
 {{- if .Params.hero }}
-<section class="hero bg-primary text-white py-5" style="margin-left: calc(-50vw + 50%); margin-right: calc(-50vw + 50%); width: 100vw; margin-top: 0; margin-bottom: 3rem;">
+<section class="hero py-5" style="margin-left: calc(-50vw + 50%); margin-right: calc(-50vw + 50%); width: 100vw; margin-top: 0; margin-bottom: 3rem;">
   <div class="container">
-    <div class="row">
-      <div class="col-lg-8 mx-auto text-center">
+    <div class="row align-items-center">
+      <div class="col-md-6">
         {{- with .Params.hero.title }}
-        <h1 class="display-4 fw-bold">{{ . }}</h1>
+        <h1 class="hero-title fw-bold">{{ . }}</h1>
         {{- end }}
+      </div>
+      <div class="col-md-6">
         {{- with .Params.hero.subtitle }}
-        <p class="lead">{{ . }}</p>
+        <p class="lead mb-3 text-dark">{{ . }}</p>
         {{- end }}
         {{- with .Params.hero.cta }}
-        <a href="{{ .url }}" class="btn btn-light btn-lg">{{ .text }}</a>
+        <a href="{{ .url }}" class="btn btn-primary btn-lg">{{ .text }}</a>
         {{- end }}
       </div>
     </div>

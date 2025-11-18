@@ -1,7 +1,7 @@
 ---
 title: "SPIQE - Secure Protocol Implementations in the Quantum Era"
 hero:
-  title: "SPIQE 2026"
+  title: "SPIQE"
   subtitle: "Workshop on Secure Protocol Implementations in the Quantum Era"
   cta:
     text: "View Call for Papers"

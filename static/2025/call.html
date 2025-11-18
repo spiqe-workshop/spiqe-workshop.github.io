@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang=en data-theme=light>
+
+<head>
+    <meta name=generator content="Hugo 0.120.4">
+    <meta charset=utf-8>
+    <meta name=viewport content="width=device-width,initial-scale=1">
+    <title>Secure Protocol Implementations in the Quantum Era (SPIQE)</title>
+    <meta name=description content="Secure Protocol Implementations in the Quantum Era (SPIQE)">
+    <link rel="shortcut icon" href=img/icon.svg>
+    <link rel=stylesheet href=pico.min.css>
+    <link rel=stylesheet href=custom.css>
+</head>
+
+<body>
+    <nav class=container>
+        <ul>
+            <li><a href=/ class=contrast>SPIQE</a></li>
+        </ul>
+        <ul class=burger>
+            <li><a href=#menu id=nav-open><img src=img/menu.svg alt=Menu></a></li>
+        </ul>
+        <ul class=nav-elements>
+            <li><a href=index.html />About SPIQE</a></li>
+            <li class=selected><a href=call.html />Call for Papers and Talks</a></li>
+            <li><a href=program.html />Program</a></li>
+            <li><a href=registration.html />Registration</a></li>
+        </ul>
+    </nav>
+    <div id="includedContent"></div>
+    <script>
+        fetch("header.html")
+            .then(response => response.text())
+            .then(html => {
+                document.getElementById("includedContent").innerHTML = html;
+            });
+    </script>
+    <main class=container>
+        <h2>Call for Papers and Talks</h2>
+        <div>
+            <p>Security protocols are essential for safeguarding the digital communications and interactions that
+                form the backbone of modern society. These protocols are increasingly under pressure from both classical
+                vulnerabilities, such as implementation flaws, as well as emerging threats, such as posed by quantum
+                computing. The migration to post-quantum cryptographic (PQC) algorithms is a complex process that
+                will affect the design, implementation, and analysis of security protocols in the coming years.</p>
+            <p>The workshop on Secure Protocol Implementations in the Quantum Era (SPIQE) seeks contributed
+                papers and talks that present case studies addressing the challenges of implementing traditional
+                security protocols and how these can be used to build secure quantum-resistant solutions. As with
+                classical protocols, many security vulnerabilities stem from implementation errors, exacerbated by
+                the increasing complexity of protocol specifications. The introduction of post-quantum algorithms adds
+                further complexity, raising new questions on how to implement and analyze these protocols securely
+                and efficiently.</p>
+            <p>We invite submissions from both <b>academia and industry</b> that present cutting-edge research on security
+                protocol implementations, particularly those that address the unique challenges of post-quantum
+                migration. How can we ensure that the transition to PQC is both smooth and secure? How can we
+                systematically analyze implementations, statically and dynamically, to mitigate the introduction of
+                flaws during this transition? How can we ensure that specifications are precise, easily understandable,
+                and capable of being correctly implemented, especially when considering the additional complexity
+                introduced by PQC?</p>
+        </div>
+        <h2>Relevant topics include (but are not limited to)</h2>
+        <div>
+            <ul>
+                <li>Formal verification of code, including post-quantum cryptographic algorithms</li>
+                <li>Security models and formal analysis for PQC-based protocols</li>
+                <li>Post-quantum migration strategies for security protocols</li>
+                <li>Software engineering approaches to transform classical protocol specifications into
+                    quantum-resistant implementations</li>
+                <li>Automated techniques for identifying vulnerabilities in protocol implementations (e.g., fuzzing,
+                    testing, state learning, symbolic execution)</li>
+                <li>LangSec approaches for improving the robustness of protocol specifications and implementations</li>
+                <li>Model-based testing of classical and post-quantum protocol implementations</li>
+                <li>Hybrid classical-post-quantum security protocol implementations and their analyses</li>
+                <li>Large-scale analyses of post-quantum protocol deployments</li>
+                <li>Post-quantum key management and PKIs</li>
+                <li>Lessons learned from recent attacks on post-quantum implementations</li>
+                <li>Standardization of post-quantum algorithms: current state and challenges</li>
+            </ul>
+        </div>
+        <h2>Submission Guidelines</h2>
+        <div>
+            <p>Authors are invited to submit papers using EasyChair: <a href="https://easychair.org/cfp/SPIQE-2025">https://easychair.org/cfp/SPIQE-2025</a></p>
+            <p><b>Submitted papers</b> must be written in English and be <b>anonymous</b> (with no author names, affiliations, acknowledgments, or obvious references), as we follow the double-blinded review process. All submissions must follow the original <a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines">LNCS format</a> with a page limit of <b>18 pages</b>, excluding references and possible appendices and a total page limit of <b>24 pages</b>. Papers must be submitted electronically in PDF format. They must be original and not simultaneously submitted to another journal, conference, or workshop.  Accepted papers will appear in Springer’s LNCS series. Every accepted paper must have <b>at least one author registered for the workshop</b>. </p>
+            <p><b>Proposals for talks</b> should conform to the submission format, as described above. They are not required to be full-length research papers, and they must be <b>non-anonymous</b>. They should present the key themes of the talk for the reviewers to assess its potential impact and quality. Talks will be judged on this basis, competitively with paper submissions, to select high-quality and/or high-impact talks and papers. Talk proposals should be clearly marked as such by having their <b>title begin with "Talk Proposal:"</b>.</p>
+        </div>
+        <h2>Important dates</h2>
+        <div>
+            <ul>
+                <li>Workshop paper submission deadline: <b>March 23, 2025</b> (AoE)</li>
+                <li>Workshop paper notification: <b>April 23, 2025</b></li>
+                <li>Camera-ready papers for pre-proceedings: <b>May 12, 2025</b>  (hard deadline)</li>
+                <li>Workshop date: <b>June 24, 2025</b></li>
+            </ul>
+        </div>
+        <h2>Program Committee</h2>
+        <div>
+            <ul>
+                <li>Marcus Brinkmann (Ruhr University Bochum)</li>
+                <li>Sofía Celi (Brave)</li>
+                <li>Chitchanok Chuengsatiansup (Univesity of Klagenfurt)</li>
+                <li>Tibor Jager (University of Wuppertal)</li>
+                <li>Franziskus Kiefer (Cryspen)</li>
+                <li>Yong Li (Huawei)</li>
+                <li>Robert Merget (Technology Innovation Institute Abu Dhabi)</li>
+                <li>Johannes Mittmann (Federal Office for Information Security, Germany)</li>
+                <li>Thyla van der Merwe (Google)</li>
+                <li>Kenneth G. Paterson (ETH Zürich)</li>
+                <li>Jörg Schwenk (Ruhr University Bochum)</li>
+                <li>Juraj Somorovsky (Paderborn University)</li>
+                <li>Douglas Stebila (University of Waterloo)</li>
+                <li>Filippo Valsorda (https://filippo.io)</li>
+            </ul>
+        </div>
+    </main>
+    <div id="footer"></div>
+    <script>
+        fetch("footer.html")
+            .then(response => response.text())
+            .then(html => {
+                document.getElementById("footer").innerHTML = html;
+            });
+    </script>
+    <button id=scroll-up title="Scroll up">⬆</button>
+</body>
+<script>let navmenu = document.querySelector(".nav-elements"); document.querySelector("#nav-open").onclick = function () { navmenu.classList.contains("open") ? navmenu.classList.remove("open") : navmenu.classList.add("open") }; let topbutton = document.querySelector("#scroll-up"); window.onscroll = () => { document.body.scrollTop > 100 || document.documentElement.scrollTop > 100 ? topbutton.style.display = "block" : topbutton.style.display = "none" }, topbutton.onclick = () => { document.body.scrollTop = 0, document.documentElement.scrollTop = 0 }</script>
+
+</html>

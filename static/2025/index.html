@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang=en data-theme=light>
+
+<head>
+    <meta name=generator content="Hugo 0.120.4">
+    <meta charset=utf-8>
+    <meta name=viewport content="width=device-width,initial-scale=1">
+    <title>Secure Protocol Implementations in the Quantum Era (SPIQE)</title>
+    <meta name=description content="Secure Protocol Implementations in the Quantum Era (SPIQE)">
+    <link rel="shortcut icon" href=img/icon.svg>
+    <link rel=stylesheet href=pico.min.css>
+    <link rel=stylesheet href=custom.css>
+</head>
+
+<body>
+    <nav class=container>
+        <ul>
+            <li><a href=/ class=contrast>SPIQE</a></li>
+        </ul>
+        <ul class=burger>
+            <li><a href=#menu id=nav-open><img src=img/menu.svg alt=Menu></a></li>
+        </ul>
+        <ul class=nav-elements>
+            <li class=selected><a href=index.html />About SPIQE</a></li>
+            <li><a href=call.html />Call for Papers and Talks</a></li>
+            <li><a href=program.html />Program</a></li>
+            <li><a href=registration.html />Registration</a></li>
+        </ul>
+    </nav>
+    <div id="includedContent"></div>
+    <script>
+        fetch("header.html")
+            .then(response => response.text())
+            .then(html => {
+                document.getElementById("includedContent").innerHTML = html;
+            });
+    </script>
+    <main class=container>
+        <h2>About SPIQE</h2>
+        <div>
+            <p>This inaugural workshop will focus on addressing critical challenges of transitioning security protocols
+                to post-quantum cryptography (PQC). As conventional cryptographic algorithms increasingly face threats
+                from quantum computing, the need to migrate to PQC presents both significant technical and practical
+                obstacles. This workshop will serve as a platform for researchers and practitioners to address these
+                challenges, focusing on the implementation, analysis, and deployment of post-quantum secure
+                protocols.</p>
+            <p>SPIQE aims to foster collaboration between academia and industry, bringing together experts in
+                cryptography, software engineering, protocol design, and cybersecurity. Topics covered include formal
+                verification of cryptographic code, post-quantum migration strategies, hybrid protocol implementations,
+                and automated techniques for identifying vulnerabilities.</p>
+            <p>To encourage broad participation and a diverse range of contributions, the workshop will solicit both
+                full papers and talks. This hybrid approach is designed to attract high-quality submissions from researchers
+                focused on in-depth studies, as well as industry professionals and practitioners who can share insights
+                and case studies from real-world implementations. The selection process will prioritize quality and
+                potential impact of submissions.</p>
+            <p>SPIQE will be co-located with the 23rd International Conference on Applied Cryptography and Network
+                Security in Munich, Germany (23rd-26th June), and will be held on <b>June 24th 2025</b>.
+            </p>
+        </div>
+        <h2>Organizers</h2>
+        <p><a href="https://inf.ethz.ch/people/person-detail.paterson.html">Kenneth G. Paterson</a> (ETH Zürich)</p>
+        <p><a href="https://www.uni-paderborn.de/person/83504">Juraj Somorovsky</a> (Paderborn University)</p>
+        <h2>Sponsors</h2>
+        <div>
+            <img src="img/aws-logo-rgb.png" style="width:250px; display:block; margin-right:auto; margin-left:auto; margin-bottom: 20px;"/>
+        </div>
+    </main>
+    <div id="footer"></div>
+    <script>
+        fetch("footer.html")
+            .then(response => response.text())
+            .then(html => {
+                document.getElementById("footer").innerHTML = html;
+            });
+    </script>
+    <button id=scroll-up title="Scroll up">⬆</button>
+</body>
+<script>let navmenu = document.querySelector(".nav-elements"); document.querySelector("#nav-open").onclick = function () { navmenu.classList.contains("open") ? navmenu.classList.remove("open") : navmenu.classList.add("open") }; let topbutton = document.querySelector("#scroll-up"); window.onscroll = () => { document.body.scrollTop > 100 || document.documentElement.scrollTop > 100 ? topbutton.style.display = "block" : topbutton.style.display = "none" }, topbutton.onclick = () => { document.body.scrollTop = 0, document.documentElement.scrollTop = 0 }</script>
+
+</html>

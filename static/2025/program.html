@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang=en data-theme=light>
+
+<head>
+    <meta name=generator content="Hugo 0.120.4">
+    <meta charset=utf-8>
+    <meta name=viewport content="width=device-width,initial-scale=1">
+    <title>Secure Protocol Implementations in the Quantum Era (SPIQE)</title>
+    <meta name=description content="Secure Protocol Implementations in the Quantum Era (SPIQE)">
+    <link rel="shortcut icon" href=img/icon.svg>
+    <link rel=stylesheet href=pico.min.css>
+    <link rel=stylesheet href=custom.css>
+</head>
+
+<body>
+    <nav class=container>
+        <ul>
+            <li><a href=/ class=contrast>SPIQE</a></li>
+        </ul>
+        <ul class=burger>
+            <li><a href=#menu id=nav-open><img src=img/menu.svg alt=Menu></a></li>
+        </ul>
+        <ul class=nav-elements>
+            <li><a href=index.html />About SPIQE</a></li>
+            <li><a href=call.html />Call for Papers and Talks</a></li>
+            <li class=selected><a href=program.html />Program</a></li>
+            <li><a href=registration.html />Registration</a></li>
+        </ul>
+    </nav>
+    <div id="includedContent"></div>
+    <script>
+    fetch("header.html")
+        .then(response => response.text())
+        .then(html => {
+        document.getElementById("includedContent").innerHTML = html;
+        });
+    </script>
+    <main class=container>
+        <table>
+            <thead>
+              <tr>
+                <th><b>Time</b></th>
+                <th><b>Name</b></th>
+                <th><b>Talk Title</b></th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="highlight-invited">
+                <td>10:00 - 10:40</td>
+                <td>Julia Hesse</td>
+                <td>Combiners for low entropy cryptography (<a href="slides/SPIQE-Hesse-Combiners.pdf">Slides</a>)</td>
+              </tr>
+              <tr>
+                <td>10:40 - 11:00</td>
+                <td colspan="2">Break</td>
+              </tr>
+              <tr class="highlight-invited">
+                <td>11:00 - 11:40</td>
+                <td>Martin Albrecht</td>
+                <td>Lattices give us KEMs and FHE, but where are the efficient lattice PETs? (<a href="slides/SPIQE-Albrecht-Lattices.pdf">Slides</a>)</td>
+              </tr>
+              <tr class="highlight-submission">
+                <td>11:40 - 12:05</td>
+                <td>Maximiliane Weishäupl</td>
+                <td>Public Key Linting for ML-KEM and ML-DSA (<a href="slides/SPIQE-Weishaeupl-Linting.pdf">Slides</a>)</td>
+              </tr>
+              <tr class="highlight-submission">
+                <td>12:05 - 12:30</td>
+                <td>Bernhard Garn</td>
+                <td>Improving the Security of Quantum Platforms using Combinatorial Methods (<a href="slides/SPIQE-Garn-CombinatorialTesting.pdf">Slides</a>)</td>
+              </tr>
+              <tr>
+                <td>12:40 - 14:00</td>
+                <td colspan="2">Lunch</td>
+              </tr>
+              <tr class="highlight-invited">
+                <td>14:00 - 14:40</td>
+                <td>Rolfe Schmidt</td>
+                <td>The Post-Quantum Transition at Signal: Progress and Challenges (<a href="slides/SPIQE-Schmidt-Signal.pdf">Slides</a>)</td>
+              </tr>
+              <tr class="highlight-invited">
+                <td>14:40 - 15:20</td>
+                <td>Petr Svenda</td>
+                <td>Lessons learned from blackbox analyses of software and hardware cryptographic implementations (<a href="slides/SPIQE-Svenda-BlackboxAnalyses.pdf">Slides</a>)</td>
+              </tr>
+              <tr>
+                <td>15:20 - 16:00</td>
+                <td colspan="2">Break</td>
+              </tr>
+              <tr class="highlight-submission">
+                <td>16:00 - 16:25</td>
+                <td>Falko Strenzke</td>
+                <td>Standardization of PQC in OpenPGP (<a href="slides/SPIQE-Strenzke-OpenPGP.pdf">Slides</a>)</td>
+              </tr>
+              <tr class="highlight-invited">
+                <td>16:25 - 17:05</td>
+                <td>Christiane Peters</td>
+                <td>Google's PQC Journey: An Industry Perspective (<a href="slides/SPIQE-Peters-Google-PQC.pdf">Slides</a>)</td>
+              </tr>
+              <tr>
+                <td>17:05 - 17:20</td>
+                <td>Kenny and Juraj</td>
+                <td>Open Discussion and Closing Remarks</td>
+              </tr>
+            </tbody>
+          </table>          
+        <h2 style="color: #b6d7a8">Invited Talks</h2>
+        <p>Martin Albrecht (SandboxAQ): Lattices give us KEMs and FHE, but where are the efficient lattice PETs? (<a href="slides/SPIQE-Albrecht-Lattices.pdf">Slides</a>)</p>
+        <p>Julia Hesse (IBM Research - Zurich): Combiners for low entropy cryptography (<a href="slides/SPIQE-Hesse-Combiners.pdf">Slides</a>)</p>
+        <p>Christiane Peters (Google): Google's PQC Journey: An Industry Perspective (<a href="slides/SPIQE-Peters-Google-PQC.pdf">Slides</a>)</p>
+        <p>Rolfe Schmidt (Signal): The Post-Quantum Transition at Signal: Progress and Challenges (<a href="slides/SPIQE-Schmidt-Signal.pdf">Slides</a>)</p>
+        <p>Petr Svenda (Masaryk University): Lessons learned from blackbox analyses of software and hardware cryptographic implementations (<a href="slides/SPIQE-Svenda-BlackboxAnalyses.pdf">Slides</a>)</p>
+        <h2>Accepted Papers and Talks</h2>
+        <p>Falko Strenzke, Johannes Roth, Stavros Kousidis and Aron Wussler: Standardization of PQC in OpenPGP (<a href="slides/SPIQE-Strenzke-OpenPGP.pdf">Slides</a>)</p>    
+        <p>Dimitris E. Simos, Manuel Leithner, Dominik Schreiber and Bernhard Garn: Improving the Security of Quantum Platforms using Combinatorial Methods (<a href="slides/SPIQE-Garn-CombinatorialTesting.pdf">Slides</a>)</p>   
+        <p>Evangelos Karatsiolis, Franziskus Kiefer, Juliane Krämer, Mirjam Loiero, Christian Tobias and Maximiliane Weishäupl: Public Key Linting for ML-KEM and ML-DSA (<a href="slides/SPIQE-Weishaeupl-Linting.pdf">Slides</a>)</p>    
+
+    </main>
+    <div id="footer"></div>
+    <script>
+        fetch("footer.html")
+            .then(response => response.text())
+            .then(html => {
+                document.getElementById("footer").innerHTML = html;
+            });
+    </script>
+    <button id=scroll-up title="Scroll up">⬆</button>
+</body>
+<script>let navmenu = document.querySelector(".nav-elements"); document.querySelector("#nav-open").onclick = function () { navmenu.classList.contains("open") ? navmenu.classList.remove("open") : navmenu.classList.add("open") }; let topbutton = document.querySelector("#scroll-up"); window.onscroll = () => { document.body.scrollTop > 100 || document.documentElement.scrollTop > 100 ? topbutton.style.display = "block" : topbutton.style.display = "none" }, topbutton.onclick = () => { document.body.scrollTop = 0, document.documentElement.scrollTop = 0 }</script>
+</html>

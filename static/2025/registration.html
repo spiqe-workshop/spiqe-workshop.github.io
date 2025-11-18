@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang=en data-theme=light>
+
+<head>
+    <meta name=generator content="Hugo 0.120.4">
+    <meta charset=utf-8>
+    <meta name=viewport content="width=device-width,initial-scale=1">
+    <title>Secure Protocol Implementations in the Quantum Era (SPIQE)</title>
+    <meta name=description content="Secure Protocol Implementations in the Quantum Era (SPIQE)">
+    <link rel="shortcut icon" href=img/icon.svg>
+    <link rel=stylesheet href=pico.min.css>
+    <link rel=stylesheet href=custom.css>
+</head>
+
+<body>
+    <nav class=container>
+        <ul>
+            <li><a href=/ class=contrast>SPIQE</a></li>
+        </ul>
+        <ul class=burger>
+            <li><a href=#menu id=nav-open><img src=img/menu.svg alt=Menu></a></li>
+        </ul>
+        <ul class=nav-elements>
+            <li><a href=index.html />About SPIQE</a></li>
+            <li><a href=call.html />Call for Papers and Talks</a></li>
+            <li><a href=program.html />Program</a></li>
+            <li class=selected><a href=registration.html />Registration</a></li>
+        </ul>
+    </nav>
+    <div id="includedContent"></div>
+    <script>
+    fetch("header.html")
+        .then(response => response.text())
+        .then(html => {
+        document.getElementById("includedContent").innerHTML = html;
+        });
+    </script>
+    <main class=container>
+        <p>To register for our workshop, you need to register for the <a href="https://acns2025.fordaysec.de/registration/">ACNS conference</a>.</p>
+    </main>
+    <div id="footer"></div>
+    <script>
+        fetch("footer.html")
+            .then(response => response.text())
+            .then(html => {
+                document.getElementById("footer").innerHTML = html;
+            });
+    </script>
+    <button id=scroll-up title="Scroll up">⬆</button>
+</body>
+<script>let navmenu = document.querySelector(".nav-elements"); document.querySelector("#nav-open").onclick = function () { navmenu.classList.contains("open") ? navmenu.classList.remove("open") : navmenu.classList.add("open") }; let topbutton = document.querySelector("#scroll-up"); window.onscroll = () => { document.body.scrollTop > 100 || document.documentElement.scrollTop > 100 ? topbutton.style.display = "block" : topbutton.style.display = "none" }, topbutton.onclick = () => { document.body.scrollTop = 0, document.documentElement.scrollTop = 0 }</script>
+
+</html>

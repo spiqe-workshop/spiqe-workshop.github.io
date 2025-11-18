@@ -1,3 +1,29 @@
 /* Custom styles - add your overrides and customizations here */
 
 /* This file loads after Bootstrap, so you can override Bootstrap styles */
+
+/* Remove default body margin */
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* Remove margin from main container on home page */
+main.container {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+/* Tilt Warp Font - Local */
+@font-face {
+  font-family: 'Tilt Warp';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/fonts/tilt-warp.woff2') format('woff2');
+}
+
+/* Hero title styling */
+.hero h1 {
+  font-family: 'Tilt Warp', sans-serif;
+}

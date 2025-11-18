@@ -1,6 +1,6 @@
 baseURL: https://example.org/
 languageCode: en-us
-title: 'SPIQE - Secure Protocol Implementations in the Quantum Era'
+title: 'SPIQE'
 theme: spiqe
 
 markup:

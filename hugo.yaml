@@ -3,3 +3,15 @@ languageCode: en-us
 title: 'SPIQE - Secure Protocol Implementations in the Quantum Era'
 theme: spiqe
 
+menu:
+  main:
+    - name: Home
+      url: /
+      weight: 1
+    - name: Call for Papers/Talks
+      url: /cfp/
+      weight: 2
+    - name: SPIQE 2025
+      url: /2025/
+      weight: 3
+

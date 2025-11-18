@@ -1,5 +1,9 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
 <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
+{{- /* Bootstrap CSS */ -}}
+<link rel="stylesheet" href="{{ "css/bootstrap.min.css" | relURL }}">
 {{ partialCached "head/css.html" . }}
+{{- /* Bootstrap JS Bundle (includes Popper) */ -}}
+<script src="{{ "js/bootstrap.bundle.min.js" | relURL }}" defer></script>
 {{ partialCached "head/js.html" . }}

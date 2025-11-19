@@ -45,3 +45,14 @@ main.container {
   margin: 0;
   color: #f0e7ff;
 }
+
+/* Hero subtitle styling */
+.hero-subtitle {
+  font-family: 'Tilt Warp', sans-serif;
+  font-size: clamp(1.2rem, 2.5vw, 2rem);
+  line-height: 1.2;
+  color: #f0e7ff;
+  margin: 0;
+  max-width: 400px;
+  padding-left: 0;
+}

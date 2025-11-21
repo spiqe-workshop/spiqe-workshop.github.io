@@ -1,5 +1,8 @@
 ---
 title: "Call for Papers and Talks"
+hero:
+  title: "SPIQE"
+  subtitle: "Call for Papers and Talks"
 ---
 
 Security protocols are essential for safeguarding the digital communications and interactions that form the backbone of modern society. These protocols are increasingly under pressure from both classical vulnerabilities, such as implementation flaws, as well as emerging threats, such as posed by quantum computing. The migration to post-quantum cryptographic (PQC) algorithms is a complex process that will affect the design, implementation, and analysis of security protocols in the coming years.
@@ -26,6 +29,7 @@ We invite submissions from both academia and industry that present cutting-edge 
 ### Important Dates
 
 Submission deadline: Mar 12th, 2026
+
 Acceptance notification: April 10th, 2026
 
 ### Submission Guidelines
@@ -53,3 +57,27 @@ We expect authors to carefully consider and address the potential harms associat
 ### Open Science Expectations
 
 Our expectation for Euro S&P is that researchers will maximize the scientific and community value of their work by making it as open as possible. This means that, by default, all of the code, data, and other materials (such as survey instruments) needed to reproduce your work described in an accepted paper will be released publicly under an open source license. Sometimes it is not possible to share work this openly, such as when it involves malware samples, data from human subjects that must be protected, or proprietary data obtained under agreement that precludes publishing the data itself. All submissions are encouraged to include a clear statement on Data Availability that explains how the artifacts needed to reproduce their work will be shared, or an explanation of why they will not be shared. If data reproducibility is required for significant contributions of the work and the authors do not explain reproducibility and/or share the artifacts, papers that fail to satisfy these commitments may be removed from the conference.
+
+### Program Committee
+
+#### Program Chairs
+
+- Johannes Blömer (Paderborn University)
+- Marcus Brinkmann (Ruhr University Bochum)
+
+#### Program Committee
+
+- Chitchanok Chuengsatiansup (University of Klagenfurt)
+- Juliane Krämer (University of Regensburg)
+- Volker Krummel (Utimaco)
+- Tanja Lange (Eindhoven University of Technology)
+- Johannes Mittmann (Bundesamt für Sicherheit in der Informationstechnik (BSI), Germany)
+- Kenneth Paterson (ETH Zürich)
+- Christiane Peters (Google)
+- Jörg Schwenk (Ruhr University Bochum)
+- Jean-Pierre Seifert (Technische Universität Berlin)
+- Juraj Somorovsky (Paderborn University)
+
+
+
+

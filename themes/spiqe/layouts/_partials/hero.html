@@ -13,6 +13,9 @@
         {{- end }}
       </div>
       <div class="col-md-3 mt-3 mt-md-0">
+        {{- with .Params.hero.location }}
+        <p class="hero-location mb-3">{{ . }}</p>
+        {{- end }}
         {{- with .Params.hero.cta }}
         <a href="{{ .url }}" class="btn btn-light btn-lg">{{ .text }}</a>
         {{- end }}

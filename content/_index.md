@@ -3,6 +3,7 @@ title: "SPIQE - Secure Protocol Implementations in the Quantum Era"
 hero:
   title: "SPIQE"
   subtitle: "Workshop on Secure Protocol Implementations in the Quantum Era"
+  location: "SPIQE 2026 is co-located with Euro S&P, Lisbon, Portugal, 6-10 July, 2026."
   cta:
     text: "View Call for Papers"
     url: "/cfp/"

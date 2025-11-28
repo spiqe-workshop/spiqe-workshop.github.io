@@ -3,7 +3,7 @@ title: "SPIQE - Secure Protocol Implementations in the Quantum Era"
 hero:
   title: "SPIQE"
   subtitle: "Workshop on Secure Protocol Implementations in the Quantum Era"
-  location: "SPIQE 2026 is co-located with Euro S&P, Lisbon, Portugal, 6-10 July, 2026."
+  location: 'SPIQE 2026 is co-located with <a href="https://www.ieee-security.org/TC/EuroSP2026/" target="_blank" rel="noopener" style="color: inherit; text-decoration: underline;">Euro S&P</a>, Lisbon, Portugal, 6-10 July, 2026.'
   cta:
     text: "View Call for Papers"
     url: "/cfp/"
@@ -20,7 +20,7 @@ We invite submissions from both academia and industry that present cutting-edge 
 <div class="alert alert-info d-inline-flex align-items-center mt-3 mb-4">
   <span class="me-2">📍</span>
   <span>
-    SPIQE 2026 will be colocated with the 11th IEEE European Symposium on Security and Privacy (EuroS&P) in Lisbon, Portugal, July 6-10, 2026.
+    SPIQE 2026 will be colocated with the <a href="https://www.ieee-security.org/TC/EuroSP2026/" target="_blank" rel="noopener" class="alert-link">11th IEEE European Symposium on Security and Privacy (EuroS&P)</a> in Lisbon, Portugal, July 6-10, 2026.
   </span>
 </div>
 

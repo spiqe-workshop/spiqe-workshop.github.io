@@ -11,6 +11,13 @@ The workshop on Secure Protocol Implementations in the Quantum Era (SPIQE) seeks
 
 We invite submissions from both academia and industry that present cutting-edge research on security protocol implementations, particularly those that address the unique challenges of post-quantum migration. How can we ensure that the transition to PQC is both smooth and secure? How can we systematically analyze implementations, statically and dynamically, to mitigate the introduction of flaws during this transition? How can we ensure that specifications are precise, easily understandable, and capable of being correctly implemented, especially when considering the additional complexity introduced by PQC?
 
+<div class="alert alert-info d-inline-flex align-items-center mt-4 mb-4">
+  <span class="me-2">📝</span>
+  <span>
+    The submission server will open in the near future. Check back soon for the submission link.
+  </span>
+</div>
+
 ### Relevant Topics (include but not limited to)
 
 - Formal verification of code, including PQC algorithms

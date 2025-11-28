@@ -18,6 +18,7 @@ We invite submissions from both academia and industry that present cutting-edge 
 - Post-quantum migration strategies for security protocols
 - Software engineering approaches for quantum-resistant implementations
 - Automated vulnerability identification (fuzzing, testing, symbolic execution)
+- Analysis and Mitigation of Side-Channel Attacks on Post-Quantum cryptography implementations
 - LangSec and robustness of protocol specifications
 - Model-based testing of protocol implementations
 - Hybrid classical-post-quantum protocols

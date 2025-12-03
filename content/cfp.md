@@ -36,9 +36,9 @@ We invite submissions from both academia and industry that present cutting-edge 
 
 ### Important Dates
 
-Submission deadline: Mar 12th, 2026
+Submission deadline: Mar 12th, 2026 (AoE)
 
-Acceptance notification: April 10th, 2026
+Acceptance notification: April 10th, 2026 (AoE)
 
 ### Submission Guidelines
 

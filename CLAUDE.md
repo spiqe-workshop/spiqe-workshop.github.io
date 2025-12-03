@@ -19,6 +19,10 @@ Hugo-based website for the SPIQE 2026 workshop (Secure Protocol Implementations 
 - Full-width hero banner, constrained content area for main text
 - Hero banner enabled on both homepage and CFP page
 - CFP page kept simple and functional (no extra beautification)
+- Floating Lisbon image on homepage to highlight location
+
+### Image Credits
+- **Lisbon photo** (`img/lisbon.png`): Photo by [Ekaterina Boltaga](https://unsplash.com/@shkipp) on [Unsplash](https://unsplash.com/photos/jqkGK3ofxi8)
 
 ### File Structure
 ```

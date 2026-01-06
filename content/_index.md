@@ -27,6 +27,7 @@ We invite submissions from both academia and industry that present cutting-edge 
 
 ### Latest Updates
 
+- 2026-01-06: [Submissions are now open!](/cfp/) Deadline: March 12th, 2026 (AoE)
 - 2025-12-01: Website Launched!
 
 ### Important Dates

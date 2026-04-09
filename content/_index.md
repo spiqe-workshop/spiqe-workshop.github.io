@@ -34,6 +34,7 @@ We invite submissions from both academia and industry that present cutting-edge 
 
 ### Latest Updates
 
+- 2026-04-09: Acceptance notifications delayed by one week, now due April 17, 2026 (AoE).
 - 2026-03-02: Workshop date confirmed: Friday, July 10, 2026 (post-conference workshop)
 - 2026-01-06: [Submissions are now open!](/cfp/) Deadline: March 12th, 2026 (AoE)
 - 2025-12-01: Website Launched!
@@ -42,7 +43,7 @@ We invite submissions from both academia and industry that present cutting-edge 
 
 Submission deadline: Mar 12th, 2026 (AoE)
 
-Acceptance notification: April 10th, 2026 (AoE)
+Acceptance notification: ~~April 10th~~ April 17th, 2026 (AoE)
 
 ### Organizers
 

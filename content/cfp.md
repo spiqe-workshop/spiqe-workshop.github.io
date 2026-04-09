@@ -3,9 +3,6 @@ title: "Call for Papers and Talks"
 hero:
   title: "SPIQE"
   subtitle: "Call for Papers and Talks"
-  cta:
-    text: "Submit Now"
-    url: "https://hot26.spiqe.cool/"
 ---
 
 Security protocols are essential for safeguarding the digital communications and interactions that form the backbone of modern society. These protocols are increasingly under pressure from both classical vulnerabilities, such as implementation flaws, as well as emerging threats, such as posed by quantum computing. The migration to post-quantum cryptographic (PQC) algorithms is a complex process that will affect the design, implementation, and analysis of security protocols in the coming years.
@@ -14,10 +11,10 @@ The workshop on Secure Protocol Implementations in the Quantum Era (SPIQE) seeks
 
 We invite submissions from both academia and industry that present cutting-edge research on security protocol implementations, particularly those that address the unique challenges of post-quantum migration. How can we ensure that the transition to PQC is both smooth and secure? How can we systematically analyze implementations, statically and dynamically, to mitigate the introduction of flaws during this transition? How can we ensure that specifications are precise, easily understandable, and capable of being correctly implemented, especially when considering the additional complexity introduced by PQC?
 
-<div class="alert alert-success d-inline-flex align-items-center mt-4 mb-4">
-  <span class="me-2">📝</span>
+<div class="alert alert-secondary d-inline-flex align-items-center mt-4 mb-4">
+  <span class="me-2">🔒</span>
   <span>
-    <strong>Submissions are now open!</strong> Submit your paper or talk proposal at <a href="https://hot26.spiqe.cool/" target="_blank" rel="noopener">hot26.spiqe.cool</a>
+    <strong>Submissions are now closed.</strong> Acceptance notifications will be sent by April 17, 2026 (AoE).
   </span>
 </div>
 
@@ -41,7 +38,7 @@ We invite submissions from both academia and industry that present cutting-edge 
 
 Submission deadline: Mar 12th, 2026 (AoE)
 
-Acceptance notification: April 10th, 2026 (AoE)
+Acceptance notification: ~~April 10th~~ April 17th, 2026 (AoE)
 
 ### Submission Guidelines
 

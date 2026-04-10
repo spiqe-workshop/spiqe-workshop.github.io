@@ -14,7 +14,7 @@ We invite submissions from both academia and industry that present cutting-edge 
 <div class="alert alert-secondary d-inline-flex align-items-center mt-4 mb-4">
   <span class="me-2">🔒</span>
   <span>
-    <strong>Submissions are now closed.</strong> Acceptance notifications will be sent by April 17, 2026 (AoE).
+    <strong>Submissions are now closed.</strong> Acceptance notifications will be sent by April 17, 2026 (AoE). Authors and reviewers can access the submission site at <a href="https://hot26.spiqe.cool/" target="_blank" rel="noopener">hot26.spiqe.cool</a>.
   </span>
 </div>
 

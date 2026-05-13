@@ -71,3 +71,53 @@ main.container {
   line-height: 1.4;
   margin: 0 0 1rem 0;
 }
+
+/* Schedule table */
+.schedule-table {
+  border-collapse: collapse;
+}
+
+.schedule-table td {
+  vertical-align: top;
+  padding: 0.5rem 0.75rem;
+  border: none;
+}
+
+.schedule-table tr.schedule-session td {
+  border-bottom: 1px solid #adb5bd;
+  padding-top: 1.25rem;
+  padding-bottom: 0.35rem;
+}
+
+.schedule-table .schedule-time {
+  white-space: nowrap;
+  width: 130px;
+  color: #6c757d;
+}
+
+.schedule-table tr.schedule-break td {
+  color: #6c757d;
+}
+
+.schedule-table .talk-authors {
+  font-size: 0.9rem;
+  color: #495057;
+}
+
+.schedule-table .talk-paper {
+  display: block;
+  font-size: 0.9rem;
+  margin-top: 0.15rem;
+  color: #495057;
+}
+
+.schedule-table .paper-link {
+  margin-left: 0.35rem;
+  opacity: 0.55;
+  transition: opacity 0.15s;
+  vertical-align: 1px;
+}
+
+.schedule-table .paper-link:hover {
+  opacity: 1;
+}

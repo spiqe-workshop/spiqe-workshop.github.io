@@ -12,9 +12,9 @@ The workshop on Secure Protocol Implementations in the Quantum Era (SPIQE) seeks
 We invite submissions from both academia and industry that present cutting-edge research on security protocol implementations, particularly those that address the unique challenges of post-quantum migration. How can we ensure that the transition to PQC is both smooth and secure? How can we systematically analyze implementations, statically and dynamically, to mitigate the introduction of flaws during this transition? How can we ensure that specifications are precise, easily understandable, and capable of being correctly implemented, especially when considering the additional complexity introduced by PQC?
 
 <div class="alert alert-secondary d-inline-flex align-items-center mt-4 mb-4">
-  <span class="me-2">🔒</span>
+  <span class="me-2">✅</span>
   <span>
-    <strong>Submissions are now closed.</strong> Acceptance notifications will be sent by April 17, 2026 (AoE). Authors and reviewers can access the submission site at <a href="https://hot26.spiqe.cool/" target="_blank" rel="noopener">hot26.spiqe.cool</a>.
+    <strong>Submissions are closed and the workshop <a href="/program/">program has been announced</a>.</strong> Authors and reviewers can still access the submission site at <a href="https://hot26.spiqe.cool/" target="_blank" rel="noopener">hot26.spiqe.cool</a>.
   </span>
 </div>
 

@@ -13,10 +13,13 @@ menu:
     - name: Home
       url: /
       weight: 1
+    - name: Program
+      url: /program/
+      weight: 2
     - name: Call for Papers/Talks
       url: /cfp/
-      weight: 2
+      weight: 3
     - name: SPIQE 2025
       url: /2025/
-      weight: 3
+      weight: 4
 

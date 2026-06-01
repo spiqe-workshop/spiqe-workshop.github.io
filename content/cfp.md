@@ -75,7 +75,7 @@ Our expectation for Euro S&P is that researchers will maximize the scientific an
 
 #### Program Committee
 
-- Chitchanok Chuengsatiansup (University of Klagenfurt)
+- Chitchanok Chuengsatiansup (Hasso Plattner Institute and University of Potsdam)
 - Juliane Krämer (University of Regensburg)
 - Volker Krummel (Utimaco)
 - Tanja Lange (Eindhoven University of Technology)

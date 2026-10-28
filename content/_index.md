@@ -49,7 +49,7 @@ We invite submissions from both academia and industry that present cutting-edge 
     </tr>
     <tr>
       <td class="schedule-time">09:30–10:30</td>
-      <td><em><a href="/program/#dowling">Instantiating PQ Protocols: Status, Challenges and Solutions for the PQ Transition</a></em></td>
+      <td><em><a href="/program/#dowling">Instantiating PQ Protocols: Status, Challenges and Solutions for the PQ Transition</a></em><a class="paper-link" href="/slides/spiqe26-pq-protocols.pdf" title="Slides (PDF)"><img src="/img/slides.svg" alt="Slides (PDF)" width="16" height="16"></a></td>
     </tr>
     <tr class="schedule-break">
       <td class="schedule-time">10:30–11:00</td>
@@ -62,21 +62,21 @@ We invite submissions from both academia and industry that present cutting-edge 
     <tr>
       <td class="schedule-time">11:00–11:30</td>
       <td>
-        <em><a href="/program/#gomez-cambronero">Layered Performance Analysis of TLS 1.3 Handshakes: Classical, Hybrid, and Pure Post-Quantum Key Exchange</a></em><a class="paper-link" href="https://arxiv.org/abs/2603.11006" title="Paper: arXiv:2603.11006"><img src="/img/paper.svg" alt="Paper (PDF)" width="16" height="16"></a><br>
+        <em><a href="/program/#gomez-cambronero">Layered Performance Analysis of TLS 1.3 Handshakes: Classical, Hybrid, and Pure Post-Quantum Key Exchange</a></em><a class="paper-link" href="https://arxiv.org/abs/2603.11006" title="Paper: arXiv:2603.11006"><img src="/img/paper.svg" alt="Paper (PDF)" width="16" height="16"></a><a class="paper-link" href="/slides/spiqe26-tls13-pqc-performance.pdf" title="Slides (PDF)"><img src="/img/slides.svg" alt="Slides (PDF)" width="16" height="16"></a><br>
         <span class="talk-authors"><u>David Gómez-Cambronero</u> (Telefónica Innovación Digital), Daniel Munteanu (Keysight), Ana Isabel González (Universidad Carlos III)</span>
       </td>
     </tr>
     <tr>
       <td class="schedule-time">11:30–12:00</td>
       <td>
-        <em><a href="/program/#baeumer">Finding SSH Strict Key Exchange Violations by State Learning</a></em><a class="paper-link" href="https://dl.acm.org/doi/10.1145/3719027.3765208" title="Paper: ACM CCS 2025"><img src="/img/paper.svg" alt="Paper (PDF)" width="16" height="16"></a><br>
+        <em><a href="/program/#baeumer">Finding SSH Strict Key Exchange Violations by State Learning</a></em><a class="paper-link" href="https://dl.acm.org/doi/10.1145/3719027.3765208" title="Paper: ACM CCS 2025"><img src="/img/paper.svg" alt="Paper (PDF)" width="16" height="16"></a><a class="paper-link" href="/slides/spiqe26-ssh-strict-kex.pdf" title="Slides (PDF)"><img src="/img/slides.svg" alt="Slides (PDF)" width="16" height="16"></a><br>
         <span class="talk-authors"><u>Fabian Bäumer</u>, Marcel Maehren, Marcus Brinkmann, Jörg Schwenk (all Ruhr University Bochum)</span>
       </td>
     </tr>
     <tr>
       <td class="schedule-time">12:00–12:30</td>
       <td>
-        <em><a href="/program/#gutierrez-felix">A Constant-Time Analysis Framework for PQC Algorithms</a></em><br>
+        <em><a href="/program/#gutierrez-felix">A Constant-Time Analysis Framework for PQC Algorithms</a></em><a class="paper-link" href="/slides/spiqe26-constant-time-pqc.pdf" title="Slides (PDF)"><img src="/img/slides.svg" alt="Slides (PDF)" width="16" height="16"></a><br>
         <span class="talk-authors"><u>Pablo Gutiérrez Félix</u> (NICS Lab / University of Málaga)</span>
       </td>
     </tr>
@@ -90,7 +90,7 @@ We invite submissions from both academia and industry that present cutting-edge 
     </tr>
     <tr>
       <td class="schedule-time">13:30–14:30</td>
-      <td><em><a href="/program/#azouaoui">Beyond Post-Quantum Security: Physical Attacks and Countermeasures</a></em></td>
+      <td><em><a href="/program/#azouaoui">Beyond Post-Quantum Security: Physical Attacks and Countermeasures</a></em><a class="paper-link" href="/slides/spiqe26-physical-attacks-pqc.pdf" title="Slides (PDF)"><img src="/img/slides.svg" alt="Slides (PDF)" width="16" height="16"></a></td>
     </tr>
     <tr class="schedule-session">
       <td></td>
@@ -98,7 +98,7 @@ We invite submissions from both academia and industry that present cutting-edge 
     </tr>
     <tr>
       <td class="schedule-time">14:30–15:30</td>
-      <td><em><a href="/program/#weitkaemper">Preparing for Q-Day: migration timelines, policies and activities</a></em></td>
+      <td><em><a href="/program/#weitkaemper">Preparing for Q-Day: migration timelines, policies and activities</a></em><a class="paper-link" href="/slides/spiqe26-q-day-migration.pdf" title="Slides (PDF)"><img src="/img/slides.svg" alt="Slides (PDF)" width="16" height="16"></a></td>
     </tr>
     <tr class="schedule-break">
       <td class="schedule-time">15:30–16:00</td>
@@ -111,7 +111,7 @@ We invite submissions from both academia and industry that present cutting-edge 
     <tr>
       <td class="schedule-time">16:00–16:30</td>
       <td>
-        <em><a href="/program/#zajac">Implementation of a post-quantum hybrid group key exchange protocol</a></em><a class="paper-link" href="https://eprint.iacr.org/2026/445" title="Paper: IACR ePrint 2026/445"><img src="/img/paper.svg" alt="Paper (PDF)" width="16" height="16"></a><br>
+        <em><a href="/program/#zajac">Implementation of a post-quantum hybrid group key exchange protocol</a></em><a class="paper-link" href="https://eprint.iacr.org/2026/445" title="Paper: IACR ePrint 2026/445"><img src="/img/paper.svg" alt="Paper (PDF)" width="16" height="16"></a><a class="paper-link" href="/slides/spiqe26-hybrid-group-key-exchange.pdf" title="Slides (PDF)"><img src="/img/slides.svg" alt="Slides (PDF)" width="16" height="16"></a><br>
         <span class="talk-authors">Tomáš Fabšič, Samuel Klement, Zoltán Raffay, <u>Pavol Zajac</u> (all Slovak University of Technology in Bratislava)</span>
       </td>
     </tr>

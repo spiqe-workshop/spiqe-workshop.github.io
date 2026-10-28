@@ -29,7 +29,7 @@ The program features three **invited talks** and five **contributed papers and t
     </tr>
     <tr>
       <td class="schedule-time">09:30–10:30</td>
-      <td><em><a href="#dowling">Instantiating PQ Protocols: Status, Challenges and Solutions for the PQ Transition</a></em></td>
+      <td><em><a href="#dowling">Instantiating PQ Protocols: Status, Challenges and Solutions for the PQ Transition</a></em><a class="paper-link" href="/slides/spiqe26-pq-protocols.pdf" title="Slides (PDF)"><img src="/img/slides.svg" alt="Slides (PDF)" width="16" height="16"></a></td>
     </tr>
     <tr class="schedule-break">
       <td class="schedule-time">10:30–11:00</td>
@@ -42,21 +42,21 @@ The program features three **invited talks** and five **contributed papers and t
     <tr>
       <td class="schedule-time">11:00–11:30</td>
       <td>
-        <em><a href="#gomez-cambronero">Layered Performance Analysis of TLS 1.3 Handshakes: Classical, Hybrid, and Pure Post-Quantum Key Exchange</a></em><a class="paper-link" href="https://arxiv.org/abs/2603.11006" title="Paper: arXiv:2603.11006"><img src="/img/paper.svg" alt="Paper (PDF)" width="16" height="16"></a><br>
+        <em><a href="#gomez-cambronero">Layered Performance Analysis of TLS 1.3 Handshakes: Classical, Hybrid, and Pure Post-Quantum Key Exchange</a></em><a class="paper-link" href="https://arxiv.org/abs/2603.11006" title="Paper: arXiv:2603.11006"><img src="/img/paper.svg" alt="Paper (PDF)" width="16" height="16"></a><a class="paper-link" href="/slides/spiqe26-tls13-pqc-performance.pdf" title="Slides (PDF)"><img src="/img/slides.svg" alt="Slides (PDF)" width="16" height="16"></a><br>
         <span class="talk-authors"><u>David Gómez-Cambronero</u> (Telefónica Innovación Digital), Daniel Munteanu (Keysight), Ana Isabel González (Universidad Carlos III)</span>
       </td>
     </tr>
     <tr>
       <td class="schedule-time">11:30–12:00</td>
       <td>
-        <em><a href="#baeumer">Finding SSH Strict Key Exchange Violations by State Learning</a></em><a class="paper-link" href="https://dl.acm.org/doi/10.1145/3719027.3765208" title="Paper: ACM CCS 2025"><img src="/img/paper.svg" alt="Paper (PDF)" width="16" height="16"></a><br>
+        <em><a href="#baeumer">Finding SSH Strict Key Exchange Violations by State Learning</a></em><a class="paper-link" href="https://dl.acm.org/doi/10.1145/3719027.3765208" title="Paper: ACM CCS 2025"><img src="/img/paper.svg" alt="Paper (PDF)" width="16" height="16"></a><a class="paper-link" href="/slides/spiqe26-ssh-strict-kex.pdf" title="Slides (PDF)"><img src="/img/slides.svg" alt="Slides (PDF)" width="16" height="16"></a><br>
         <span class="talk-authors"><u>Fabian Bäumer</u>, Marcel Maehren, Marcus Brinkmann, Jörg Schwenk (all Ruhr University Bochum)</span>
       </td>
     </tr>
     <tr>
       <td class="schedule-time">12:00–12:30</td>
       <td>
-        <em><a href="#gutierrez-felix">A Constant-Time Analysis Framework for PQC Algorithms</a></em><br>
+        <em><a href="#gutierrez-felix">A Constant-Time Analysis Framework for PQC Algorithms</a></em><a class="paper-link" href="/slides/spiqe26-constant-time-pqc.pdf" title="Slides (PDF)"><img src="/img/slides.svg" alt="Slides (PDF)" width="16" height="16"></a><br>
         <span class="talk-authors"><u>Pablo Gutiérrez Félix</u> (NICS Lab / University of Málaga)</span>
       </td>
     </tr>
@@ -70,7 +70,7 @@ The program features three **invited talks** and five **contributed papers and t
     </tr>
     <tr>
       <td class="schedule-time">13:30–14:30</td>
-      <td><em><a href="#azouaoui">Beyond Post-Quantum Security: Physical Attacks and Countermeasures</a></em></td>
+      <td><em><a href="#azouaoui">Beyond Post-Quantum Security: Physical Attacks and Countermeasures</a></em><a class="paper-link" href="/slides/spiqe26-physical-attacks-pqc.pdf" title="Slides (PDF)"><img src="/img/slides.svg" alt="Slides (PDF)" width="16" height="16"></a></td>
     </tr>
     <tr class="schedule-session">
       <td></td>
@@ -78,7 +78,7 @@ The program features three **invited talks** and five **contributed papers and t
     </tr>
     <tr>
       <td class="schedule-time">14:30–15:30</td>
-      <td><em><a href="#weitkaemper">Preparing for Q-Day: migration timelines, policies and activities</a></em></td>
+      <td><em><a href="#weitkaemper">Preparing for Q-Day: migration timelines, policies and activities</a></em><a class="paper-link" href="/slides/spiqe26-q-day-migration.pdf" title="Slides (PDF)"><img src="/img/slides.svg" alt="Slides (PDF)" width="16" height="16"></a></td>
     </tr>
     <tr class="schedule-break">
       <td class="schedule-time">15:30–16:00</td>
@@ -91,7 +91,7 @@ The program features three **invited talks** and five **contributed papers and t
     <tr>
       <td class="schedule-time">16:00–16:30</td>
       <td>
-        <em><a href="#zajac">Implementation of a post-quantum hybrid group key exchange protocol</a></em><a class="paper-link" href="https://eprint.iacr.org/2026/445" title="Paper: IACR ePrint 2026/445"><img src="/img/paper.svg" alt="Paper (PDF)" width="16" height="16"></a><br>
+        <em><a href="#zajac">Implementation of a post-quantum hybrid group key exchange protocol</a></em><a class="paper-link" href="https://eprint.iacr.org/2026/445" title="Paper: IACR ePrint 2026/445"><img src="/img/paper.svg" alt="Paper (PDF)" width="16" height="16"></a><a class="paper-link" href="/slides/spiqe26-hybrid-group-key-exchange.pdf" title="Slides (PDF)"><img src="/img/slides.svg" alt="Slides (PDF)" width="16" height="16"></a><br>
         <span class="talk-authors">Tomáš Fabšič, Samuel Klement, Zoltán Raffay, <u>Pavol Zajac</u> (all Slovak University of Technology in Bratislava)</span>
       </td>
     </tr>
@@ -114,6 +114,8 @@ The program features three **invited talks** and five **contributed papers and t
 
 <p class="text-muted mb-3">09:30–10:30 · Benjamin Dowling (King's College London)</p>
 
+**Slides:** [PDF](/slides/spiqe26-pq-protocols.pdf)
+
 > The post-quantum transition is underway: Many post-quantum primitives have been introduced, analysed and standardised, and we see their use in widespread cryptographic protocols, including secure messaging and secure channels. This transition has not been uniform, however: different protocols achieve different notions of security from their classical counterparts, and many aspects of the transition have lagged behind. In this talk we discuss some case studies in post-quantum protocols, discuss the gaps that still exist, and potential directions on how to solve them.
 
 **About the speaker.** Benjamin Dowling is a Senior Lecturer in the Cybersecurity group at King's College London. Benjamin is interested in the provable security of real-world cryptography, extending security frameworks to bridge the gap between theoretical cryptography and its usage in the real-world. His notable publications examine the security of secure communication protocols such as SSL/TLS, secure messaging protocols such as Signal and Matrix, and introducing post-quantum security in practical cryptographic protocols.
@@ -130,6 +132,8 @@ The program features three **invited talks** and five **contributed papers and t
 
 **Paper:** [arXiv:2603.11006](https://arxiv.org/abs/2603.11006)
 
+**Slides:** [PDF](/slides/spiqe26-tls13-pqc-performance.pdf)
+
 > In this paper, we present a laboratory study focused on the impact of post-quantum cryptography (PQC) algorithms on multiple layers of stateful HTTP over TLS transactions: the TCP handshake, the intermediate TCP–TLS layer, the TLS handshake, the intermediate TLS layer, and the HTTP application layer. To this end, we propose a laboratory architecture that emulates a real-world setup in which a load test of up to 100 transactions per second is sent to a load balancer, which in turn forwards them to a backend server that returns the responses. Each set of tests is executed using the TLS 1.3 key exchange groups as follows: traditional (or non-PQC), hybrid PQC and pure PQC. Each set of tests also varied the backend response size. Across more than thirty experiments, we performed data reduction and statistical analysis for each layer, to determine the specific impact of each algorithm (PQC and traditional) at every stage of the HTTP-over-TLS transaction.
 
 **About the speaker.** David Gómez-Cambronero Álvarez is a Senior Quantum and Performance Engineer at Telefónica (Spain), with an MSc in Physics and over 20 years of experience in telecommunications, distributed systems, and performance engineering. He is currently leading initiatives related to the adoption and transformation of Post-Quantum Cryptography (PQC) within Telefónica, focusing on the evaluation, validation, and integration of quantum-safe algorithms in real production environments. In parallel, he contributes as an expert to ETSI, where he is involved in the development of a reference implementation of an authenticated protocol combining PQC, elliptic curve cryptography, and QKD.
@@ -145,6 +149,8 @@ The program features three **invited talks** and five **contributed papers and t
 <p class="text-muted mb-3">11:30–12:00 · <u>Fabian Bäumer</u>, Marcel Maehren, Marcus Brinkmann, Jörg Schwenk (all Ruhr University Bochum)</p>
 
 **Paper:** [ACM CCS 2025](https://dl.acm.org/doi/10.1145/3719027.3765208)
+
+**Slides:** [PDF](/slides/spiqe26-ssh-strict-kex.pdf)
 
 > SSH is an important protocol for secure remote shell access to servers on the Internet. At USENIX 2024, Bäumer et al. presented the Terrapin attack on SSH, which relies on the attacker injecting optional messages during the key exchange. To mitigate this attack, SSH vendors adopted an extension developed by OpenSSH called strict key exchange ("strict KEX"). With strict KEX, optional messages are forbidden during the handshake, preventing the attack. In practice, this should simplify the state machine of an SSH handshake to a linear message flow similar to that of TLS.
 >
@@ -163,6 +169,8 @@ The program features three **invited talks** and five **contributed papers and t
 ### A Constant-Time Analysis Framework for PQC Algorithms
 
 <p class="text-muted mb-3">12:00–12:30 · <u>Pablo Gutiérrez Félix</u> (NICS Lab / University of Málaga)</p>
+
+**Slides:** [PDF](/slides/spiqe26-constant-time-pqc.pdf)
 
 > Post-quantum cryptographic implementations are ultimately secured not only by their source code but also by the compilation configuration used downstream, which can silently introduce timing leaks into constant-time designs. Even when developers implement constant-time coding patterns, modern compilers may rewrite these patterns into non-constant-time behavior at the assembly level, potentially reintroducing timing leaks. This build-time variability is unavoidable in open-source software because users integrate libraries through toolchains and performance-driven compilation settings. Accordingly, this study provides practical directions for detecting non-constant-time behavior across diverse compilation parameters. We develop a framework and accompanying guidelines to evaluate all enabled post-quantum algorithms in liboqs, the core cryptographic library of the Open Quantum Safe project, across a range of realistic build configurations. The cryptographic algorithms tested belong to liboqs version 0.15, including schemes from the NIST standards, PQC digital signatures on ramp candidates, and other PQC primitives undergoing standardization processes. Designed for integration into the project's CI, the framework's main objective is to assist practitioners in identifying timing-leak candidates that manifest only under specific build settings.
 >
@@ -184,6 +192,8 @@ The program features three **invited talks** and five **contributed papers and t
 
 <p class="text-muted mb-3">13:30–14:30 · Melissa Azouaoui (NXP Semiconductors)</p>
 
+**Slides:** [PDF](/slides/spiqe26-physical-attacks-pqc.pdf)
+
 > Post-quantum cryptographic schemes are based on strong theoretical guarantees, but these guarantees are challenging to preserve in real implementations. This talk examines how physical attacks, such as side-channel and fault injection attacks, challenge the security of post-quantum cryptography in practice. While these attacks do not break the underlying mathematics, they can compromise real implementations, making dedicated countermeasures essential. The talk draws on a body of work on both attacks and countermeasures, and highlights their implications for designing secure implementations in practice.
 
 **About the speaker.** Dr. Melissa Azouaoui is a Principal Cryptographer and Technical Lead for Long-Term Innovation in Post-Quantum Cryptography at NXP Semiconductors. She holds a PhD in cryptography and her work spans PQC, with a particular focus on side-channel and fault attacks and their countermeasures.
@@ -197,6 +207,8 @@ The program features three **invited talks** and five **contributed papers and t
 ### Invited Talk: Preparing for Q-Day: migration timelines, policies and activities
 
 <p class="text-muted mb-3">14:30–15:30 · Charlotte Weitkämper (Bundesamt für Sicherheit in der Informationstechnik (BSI), Germany)</p>
+
+**Slides:** [PDF](/slides/spiqe26-q-day-migration.pdf)
 
 > The development of a cryptographically relevant quantum computer (CRQC) will have far-reaching consequences, for example a devastating impact on the security of digital communication and the reliability of trust infrastructures based on traditional cryptography. The Federal Office for Information Security (BSI) has been a long-time promoter of post-quantum cryptography (PQC) to increase quantum-resilience in IT products and services, and has published several guidelines and position papers focusing on how to transition to PQC. In this talk, we will highlight several essential aspects of migration planning; from availability predictions for CRQCs and updates on national and international transition roadmaps to BSI recommendations and useful resources.
 
@@ -213,6 +225,8 @@ The program features three **invited talks** and five **contributed papers and t
 <p class="text-muted mb-3">16:00–16:30 · Tomáš Fabšič, Samuel Klement, Zoltán Raffay, <u>Pavol Zajac</u> (all Slovak University of Technology in Bratislava)</p>
 
 **Paper:** [IACR ePrint 2026/445](https://eprint.iacr.org/2026/445)
+
+**Slides:** [PDF](/slides/spiqe26-hybrid-group-key-exchange.pdf)
 
 > Post-quantum cryptography focuses on research of cryptographic primitives, including public key encryption and signatures, that can resist the attacks mounted by an adversary with an access to a quantum computer. An alternative is to employ quantum cryptography to protect communication links by employing principles of quantum physics to protect security of the key exchange. Recently, a group key establishment protocol that combines these approaches in a secure way was presented by Steinwandt and Gonzales Vasco. We have successfully implemented and employed this protocol in a prototype application. In this article we describe the overall architecture and specific details of the implementation that can be of interest for scientific community. We conclude with a discussion of specific challenges, options and open problems that can accompany similar implementation task.
 

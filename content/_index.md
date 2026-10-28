@@ -132,6 +132,7 @@ We invite submissions from both academia and industry that present cutting-edge 
 
 ### Latest Updates
 
+- 2026-10-28: [Slides are now available](/program/). Thanks to all speakers and attendees!
 - 2026-05-13: [Workshop program announced!](/program/) Three invited talks by Benjamin Dowling, Melissa Azouaoui, and Charlotte Weitkämper, plus five contributed papers and talks.
 - 2026-04-17: We accepted 5 submissions (3 papers, 2 talks) out of 8.
 - 2026-04-09: Acceptance notifications delayed by one week, now due April 17, 2026 (AoE).

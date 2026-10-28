@@ -138,3 +138,9 @@ Johannes Blömer (Paderborn University)
 
 Marcus Brinkmann (Ruhr University Bochum)
 
+
+### Sponsors
+
+<p class="mt-3 mb-5">
+  <img src="/img/aws-logo.png" alt="Amazon Web Services (AWS)" width="250" class="d-block mx-auto">
+</p>

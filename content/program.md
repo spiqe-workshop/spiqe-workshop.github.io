@@ -5,14 +5,9 @@ hero:
   subtitle: "Workshop Program"
 ---
 
-The SPIQE 2026 workshop takes place on **Friday, July 10, 2026** in Lisbon, Portugal, as a post-conference workshop at [Euro S&P 2026](https://www.ieee-security.org/TC/EuroSP2026/).
+The SPIQE 2026 workshop took place on **Friday, July 10, 2026** in Lisbon, Portugal, as a post-conference workshop at [Euro S&P 2026](https://www.ieee-security.org/TC/EuroSP2026/).
 
-The program features three **invited talks** and five **contributed papers and talks** selected from submissions.
-
-<div class="alert alert-warning d-flex align-items-center mt-4 mb-4" role="alert">
-  <span class="me-2">⏰</span>
-  <span>All times are local time in Lisbon (WEST, UTC+1). The program is subject to minor adjustments.</span>
-</div>
+The program featured three **invited talks** and five **contributed papers and talks** selected from submissions. All times are local time in Lisbon (WEST, UTC+1).
 
 ## Schedule
 
